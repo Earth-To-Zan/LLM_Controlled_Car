@@ -1,0 +1,15 @@
+There is a wall infront of you.
+There is a wall behind you.
+
+There is a wall to both behind and infront of you.
+
+There is a wall infront of you but NOT behind you.
+There is a wall behind you but NOT infront of you.
+
+There is a wall to your right.
+There is a wall to your left.
+
+There is a wall to both your right and left.
+
+There is a wall to your right but NOT to your left.
+There is a wall to your left but NOT to your right.
